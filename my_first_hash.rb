@@ -1,5 +1,10 @@
 def my_hash
-  
+  {
+    "Twice" => "Say You Love Me",
+    "Grouplove" => "Ways to Go",
+    "Warrant" => "Heaven",
+    "Dave Matthews Band" => "Two Step"
+  }
 end
 
 
